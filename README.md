@@ -1,4 +1,4 @@
-# jsonGO
+# iso8583
 iso8583 is a golang app that handle transaction request and gonna processed to standard ISO:8583, it included database connection to save any request that it get.
 
 ## Installation
